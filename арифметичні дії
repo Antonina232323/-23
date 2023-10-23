@@ -1,0 +1,6 @@
+a=int(input("Ведіть число:"))
+b=int(input('Введіть друге число:'))
+c=int(input('Введіть третє число:'))
+print(a+b+c)
+print(a*b*c)
+print(a**(b-c))
